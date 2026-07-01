@@ -12,7 +12,7 @@
  */
 
 int main(void) {
-    char buffer[1024];
+    char buffer[100];
 
     while (1) {
         /* prompt */
