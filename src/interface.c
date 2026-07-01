@@ -1,16 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
- * Simple UI for Part A: print a prompt and echo input back to the user.
- *
- * Usage:
- *   ./tokenizer_ui
- *
- * Type lines and they will be echoed. End the program with EOF (Ctrl-D)
- * or by entering the command "exit" on its own line.
- */
-
 int main(void) {
     char buffer[100];
 
